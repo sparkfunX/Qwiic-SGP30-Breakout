@@ -19,34 +19,34 @@
 <layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
-<layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
-<layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
-<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
-<layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
-<layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
-<layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
-<layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
-<layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="yes"/>
-<layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="yes"/>
-<layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="yes"/>
-<layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
-<layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
-<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
+<layer number="31" name="tCream" color="7" fill="4" visible="yes" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="yes" active="yes"/>
+<layer number="33" name="tFinish" color="6" fill="3" visible="yes" active="yes"/>
+<layer number="34" name="bFinish" color="6" fill="6" visible="yes" active="yes"/>
+<layer number="35" name="tGlue" color="7" fill="4" visible="yes" active="yes"/>
+<layer number="36" name="bGlue" color="7" fill="5" visible="yes" active="yes"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
+<layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
+<layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="no" active="no"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="no" active="no"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="no"/>
@@ -3424,7 +3424,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="U$10" library="Labels-0_04" package="(PWR)" value="" x="0.635" y="7.747"/>
 <element name="U$29" library="Labels" package="QWIIC-LOGO-MEDIUM" value="" x="21.59" y="4.318" rot="MR0"/>
 <element name="U1" library="SGP30" package="SGP30" value="SGP30" x="12.7" y="12.7"/>
-<element name="U2" library="SGP30" package="SOT23-5" value="MIC5504" x="12.7" y="8.89"/>
+<element name="U2" library="SGP30" package="SOT23-5" value="AP2112k" x="12.7" y="8.89"/>
 <element name="Q1" library="SparkFun-DiscreteSemi" package="SOT23-3" value="" x="8.89" y="17.78" rot="R90">
 <attribute name="PROD_ID" value="TRANS-00830" x="8.89" y="17.78" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
 </element>
@@ -3510,7 +3510,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="11.43" y1="1.27" x2="12.7" y2="2.54" width="0.254" layer="16"/>
 <wire x1="12.7" y1="2.54" x2="12.7" y2="8.89" width="0.254" layer="16"/>
 </signal>
-<signal name="GND" airwireshidden="yes">
+<signal name="GND">
 <polygon width="0.254" layer="16" isolate="0.3048">
 <vertex x="0" y="0"/>
 <vertex x="0" y="25.4"/>
@@ -3570,6 +3570,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="13.208" y1="11.938" x2="12.573" y2="12.573" width="0.254" layer="1"/>
 <wire x1="12.573" y1="12.573" x2="12.573" y2="12.7" width="0.254" layer="1"/>
 <wire x1="12.7" y1="12.7" x2="12.7" y2="13.97" width="0.254" layer="1"/>
+<contactref element="U2" pad="2"/>
+<wire x1="12.7" y1="7.5899" x2="12.7" y2="7.874" width="0.1524" layer="1"/>
+<wire x1="12.7" y1="7.874" x2="11.684" y2="8.89" width="0.1524" layer="1"/>
 </signal>
 <signal name="SCL">
 <contactref element="J2" pad="4"/>
@@ -3679,9 +3682,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="9.89" y1="16.83" x2="10.718" y2="16.002" width="0.1524" layer="1"/>
 <wire x1="10.718" y1="16.002" x2="11.43" y2="16.002" width="0.1524" layer="1"/>
 </signal>
-<signal name="N$6">
-<contactref element="U2" pad="2"/>
-</signal>
 <signal name="LSDA">
 <contactref element="U1" pad="3"/>
 <contactref element="Q1" pad="2"/>
@@ -3716,6 +3716,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="14.986" y1="16.306" x2="14.986" y2="16.002" width="0.1524" layer="1"/>
 </signal>
 </signals>
+<errors>
+<approved hash="3,1,05851b9b1b9b0585"/>
+</errors>
 </board>
 </drawing>
 </eagle>
