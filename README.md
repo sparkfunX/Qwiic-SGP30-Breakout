@@ -1,6 +1,6 @@
 Qwiic SGP30 Breakout
 ===========================================================
-![]()
+![SparkX SGP30 Breakout (Qwiic) (SPX-14813)](https://cdn.sparkfun.com/assets/parts/1/3/0/8/1/14813-SGP30_Breakout__Qwiic_-01.jpg)](https://cdn.sparkfun.com/assets/parts/1/3/0/8/1/14813-SGP30_Breakout__Qwiic_-01.jpg)
 
 [*SparkX SGP30 Breakout (Qwiic) (SPX-14813)*](https://www.sparkfun.com/products/14813)
 
